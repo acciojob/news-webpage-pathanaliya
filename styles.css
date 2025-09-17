@@ -20,6 +20,7 @@ body{
       width: 20%;
       border-radius: 10px;
       box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
 .main-article{
 	background-color: white;
       padding: 20px;
@@ -33,7 +34,7 @@ body{
   padding: 20px;
   width: 20%;
   border-radius: 10px;
-  text-align: center !important;  /* Force override */
+  text-align: center ;  
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
 
