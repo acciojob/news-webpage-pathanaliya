@@ -28,14 +28,15 @@ body{
       border-radius: 10px;
       box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
-.pictorial-news-section{
-	background-color: white;
-      padding: 20px;
-      width: 20%;
-      border-radius: 10px;
-      text-align: center;
-      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+.pictorial-news-section {
+  background-color: white;
+  padding: 20px;
+  width: 20%;
+  border-radius: 10px;
+  text-align: center !important;  /* Force override */
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
 }
+
 	 .pictorial-news-section img {
       width: 100%;
       height: auto;
